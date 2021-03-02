@@ -1,0 +1,15 @@
+{
+  "name": "Declutter Page with Outline.com (Unofficial)",
+  "version": "1.0",
+  "description": "Quickly send the current page URL to Outline.com for decluttering. This is an Unofficial extension, and is NOT affiliated with Outline.com",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["outline.js"]
+  },
+  "icons": {
+    "16": "images/favicon-16x16.png",
+    "32": "images/favicon-32x32.png",
+    "192": "images/favicon-192x192.png"
+  },
+  "manifest_version": 2
+}
